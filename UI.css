@@ -81,16 +81,31 @@ a {
 
 
 
+.vol li{
+    list-style:none;
+    list-style-type:none;
+}
+
+.px li{
+    list-style:none;
+    list-style-type:none;
+}
+
 
 .px a {
     margin-left: 144px;
-    margin-top: -4.6%;
+    margin-top: 4.2%;
+
+    position:absolute;
 }
 
 
 .vol a {
-    margin-top: 2.9%;
+    margin-top: 4.2%;
     margin-left: -0.5%;
+
+    
+    position: absolute;
 }
 
 a:hover {
